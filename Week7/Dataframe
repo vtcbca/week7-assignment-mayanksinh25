@@ -1,5 +1,4 @@
-Create CSV file for product selling for 6 Months ( Prod_No | Prod_Name | Jan | Feb | Mar | Apr | May | Jun) for 5 products.
-
+Create CSV file for product selling for 6 Months ( Prod_No | Prod_Name | Jan | Feb | Mar | Apr | May | Jun) for 12 products.
 Perform following operations.
 
 1. Add 12 Records. Take input from user.
